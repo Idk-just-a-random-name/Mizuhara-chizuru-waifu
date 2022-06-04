@@ -14,11 +14,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['918231033230']
+global.owner = ['919929140529']
 global.packname = 'Mizuhara'
 global.prefix= ['=']
-global.author = 'Arus'
-global.sessionName = 'arus'
+global.author = 'Amitttchow'
+global.sessionName = 'Amittt'
 global.reac = {
             cry:'Cried with',
             kiss: 'Kissed',
@@ -48,7 +48,7 @@ global.reac = {
             dance:'is Dancing with'
         }
 global.mess = {
-    success: '*Here you go...*',
+    success: '*Here you go senpai...*',
     admin: '*Oops!! sorry dude this is only for admins*',
     botAdmin: '*To use this command make me admin if u trust me...*',
     owner: '*Sorry!! this command is for my darling developers*',
