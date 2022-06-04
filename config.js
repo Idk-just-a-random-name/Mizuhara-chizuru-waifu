@@ -16,7 +16,7 @@ global.APIKeys = {
 // Other
 global.owner = ['919929140529']
 global.packname = 'Mizuhara'
-global.prefix= ['=']
+global.prefix= ['','/','!','?','#','$','%','&','🐦']
 global.author = 'Amitttchow'
 global.sessionName = 'Amittt'
 global.reac = {
